@@ -1,10 +1,10 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F24,100:1E90FF&height=200&section=header&text=Hi%2C%20I'm%20Yussri%20👋&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F24,100:1E90FF&height=200&section=header&text=Hi%2C%20I'm%20Youssri%20👋&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <b>Dynamic .NET Developer | Open for New Opportunities</b><br>
+  <b>Dynamic .NET Developer | Open to Work</b><br>
   💡 Passionate about Clean Architecture, REST APIs & Scalable Software
 </p>
 
@@ -12,8 +12,11 @@
 
 ### 📬 Contact
 📧 **Email:** [ghanmi.youssri.dev@gmail.com](mailto:ghanmi.youssri.dev@gmail.com)  
-🌍 **Location:** Belgium  
-💼 **Open to:** Software Development Internships & Collaborations
+🌍 **Location:** Ghent Metropolitan Area, Flanders, Belgium  
+💼 **Open to Work:** Software Engineer · .NET Developer  
+🏢 **Location Types:** On-site · Hybrid · Remote  
+📆 **Start Date:** Immediately — actively applying  
+📄 **Employment Types:** Full-time · Part-time · Contract · Internship  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gh-youssri">
@@ -29,22 +32,37 @@
 
 ## 💡 About Me
 
-I'm a **dynamic and motivated software developer** with hands-on experience in **.NET technologies** and a deep passion for building efficient, maintainable applications.
+I’m a **dynamic software developer** with practical experience in **.NET technologies** and a passion for building efficient and maintainable applications.  
+I specialize in **migrating legacy systems to modern .NET Core MVC architectures**, developing powerful **RESTful APIs**, and optimizing **system performance** to enhance user experience.
 
-I specialize in:
-- Migrating **legacy systems** to modern **.NET Core MVC** architectures  
-- Developing robust **RESTful APIs**  
-- Optimizing **system performance** to enhance user experience  
+### 🧠 Skills Overview
+- **Languages:** C#, JavaScript, SQL, Python  
+- **Frameworks:** .NET Core, ASP.NET Core MVC  
+- **Technologies:** RESTful APIs, Entity Framework, LINQ  
+- **Tools & Environments:** Visual Studio, VS Code, Postman, Git  
+- **Reporting Tools:** FastReport, CrystalReport  
+
+---
 
 ### 🏆 Key Achievements
-- Successfully migrated critical legacy applications to **.NET Core MVC**, improving scalability and performance.  
-- Increased code maintainability by **35%** through centralized business logic.  
-- Consistently delivered **high-quality software** on time.  
-- Improved **system performance and UX** with smart optimization strategies.  
+- Successfully migrated critical legacy systems to **.NET Core MVC**, resulting in improved scalability and performance.  
+- Increased **code maintainability by 35%** through centralized business logic.  
+- Consistently delivered **high-quality software solutions** within deadlines.  
+- Enhanced **system performance and UX** through effective optimization strategies.
+
+---
 
 ### 💪 Passion & Expertise
-Driven by continuous growth and innovation, I enjoy working in collaborative environments where technology solves real-world challenges.  
-I’m passionate about developing **scalable, high-quality applications** and exploring new tools to stay ahead in the tech world.
+Driven by **continuous learning and innovation**, I thrive in collaborative environments where technology is used to solve real-world challenges.  
+I’m passionate about creating **scalable, high-quality applications** and continuously exploring **new frameworks and tools** to stay ahead in the software industry.
+
+---
+
+### 🤝 Let’s Connect
+I’m **open to new challenges** in software engineering — whether it’s building enterprise systems, scaling APIs, or crafting modern .NET applications.  
+Let’s connect and explore how I can contribute to your team or project.
+
+#SoftwareDevelopment #DotnetCore #RESTAPI #CleanArchitecture #OpenToWork
 
 ---
 
@@ -113,7 +131,7 @@ I’m passionate about developing **scalable, high-quality applications** and ex
 ---
 
 ## 🧩 Interests
-💼 Scalable finance & inventory systems  
+💼 Scalable financial & inventory systems  
 🤖 AI and automation in business software  
 🧱 Clean architecture & .NET design patterns  
 📱 Cross-platform apps with Blazor & MAUI  

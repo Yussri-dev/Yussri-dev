@@ -108,13 +108,13 @@ Used for accurate feed optimization in dairy & meat cattle sectors.
 
 ---
 
-### 💸 [bilancia]([#](https://github.com/Yussri-dev/bilancia)  
+### 💸 [bilancia](https://github.com/Yussri-dev/bilancia)  
 Finance & Budgeting App (React Native)**  
 Tracks income and expenses with dynamic charts and insights.
 
 ---
 
-### 📦 [InventoryTrackApi]([#](https://github.com/Yussri-dev/InventoryTrackApi))  
+### 📦 [InventoryTrackApi](https://github.com/Yussri-dev/InventoryTrackApi)
 .NET Core API for Inventory & Sales Tracking**  
 Manages products, suppliers, purchases, returns, and invoicing  
 🧰 *Tech:* ASP.NET Core, EF Core, PostgreSQL, JWT, Swagger.

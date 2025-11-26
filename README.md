@@ -121,31 +121,6 @@ Manages products, suppliers, purchases, returns, and invoicing
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yussri-dev&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yussri-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yussri-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yussri-dev/Yussri-dev/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🧩 Interests
 
 - Clean Architecture & software craftsmanship  

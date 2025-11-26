@@ -4,20 +4,20 @@
 </p>
 
 <p align="center">
-  <b>Dynamic .NET Developer | Open to Work</b><br>
-  💡 Passionate about Clean Architecture, REST APIs & Scalable Software
+  <b>Full-Stack .NET Developer • API Engineer • Mobile Developer</b><br>
+  🚀 Clean Architecture • Modern .NET • Scalable Systems
 </p>
 
 ---
 
-## 📬 Contact
+## 📫 Contact
 
 📧 **Email:** [ghanmi.youssri.dev@gmail.com](mailto:ghanmi.youssri.dev@gmail.com)  
-🌍 **Location:** Ghent Metropolitan Area, Flanders, Belgium  
-💼 **Open to Work:** Software Engineer · .NET Developer  
-🏢 **Location Types:** On-site · Hybrid · Remote  
-📆 **Start Date:** Immediate  
-📄 **Types:** Full-time · Contract · Internship  
+🌍 **Based in:** Ghent Metropolitan Area, Flanders, Belgium  
+💼 **Open To Work:** .NET Developer · Software Engineer  
+🧭 **Work Modes:** On-site · Hybrid · Remote  
+📆 **Availability:** Immediate  
+📄 **Contract Types:** Full-time · Contract · Internship  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gh-youssri">
@@ -31,20 +31,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-I’m **Youssri**, a passionate **.NET Developer** focused on building scalable, clean, and modern applications.  
-I love designing **REST APIs**, implementing secure **Identity + JWT authentication**, and building cross-platform apps with **Blazor Hybrid** and **.NET MAUI**.
+I’m **Youssri**, a .NET developer with a strong focus on **API engineering**, **clean architecture**, and building **scalable, maintainable software**.  
 
-I continuously learn, build, and improve — transforming complex ideas into elegant and maintainable software.
+I enjoy turning complex requirements into robust solutions—whether it’s a cleanly architected backend, a MAUI mobile app, or a complete SaaS ecosystem.
 
-### 🔍 What I specialize in
-- Clean Architecture, DTOs, Services, Repositories, Installers  
-- ASP.NET Core APIs & EF Core  
-- WPF (MVVM), .NET MAUI, Blazor Hybrid  
-- JWT Auth, Identity, multi-tenant systems  
-- Mobile development with React Native (Expo)  
-- AI-powered SaaS features & analytics  
+### 💡 I work best with:
+- Domain-driven, layered architectures  
+- Clean controllers + services + repositories + DTO separation  
+- Secure authentication (Identity, JWT, multi-tenant flows)  
+- Modern UI: WPF MVVM, Blazor Hybrid, .NET MAUI  
+- Mobile dev with React Native (Expo)  
+- Data-rich, AI-powered SaaS dashboards  
 
 ---
 
@@ -57,14 +56,14 @@ I continuously learn, build, and improve — transforming complex ideas into ele
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework-6DB33F" />
   <img src="https://img.shields.io/badge/REST%20APIs-00897B?logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/FastReport-FFB400" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" />
@@ -87,46 +86,73 @@ I continuously learn, build, and improve — transforming complex ideas into ele
 
 ## 🚀 Highlighted Projects
 
-### 💰 [SaasFinanceApp](https://github.com/Yussri-dev/SaasFinanceApp) — API & MAUI
-A complete financial SaaS system with:  
-- Income & expense tracking  
-- AI-powered insights  
-- Monthly analytics with charts  
-- .NET MAUI Blazor Hybrid mobile app  
-- Modular API with DTOs, services, installers  
+### 💰 [SaasFinanceApp](https://github.com/Yussri-dev/SaasFinanceApp) — API & MAUI  
+A modern finance SaaS ecosystem featuring:  
+✔ Income & expense tracking  
+✔ AI-powered budgeting & insights  
+✔ Analytics dashboard with charts  
+✔ MAUI mobile app (Blazor Hybrid)  
+✔ Cleanly architected multi-layer API  
 
 ---
 
-### 🌐 [Drupal-RekeningTool](https://github.com/Yussri-dev/Drupal-RekeningTool) — ILVO
-A professional **voederwaardeprijs rekentool** built for agriculture & livestock research.  
-Combines **WUR VWP** + **CVB Veevoedertabel** to calculate:  
-- VWP Melk & VWP Vlees  
-- Percentual comparisons vs real prices  
-- Nutrient-based feed value evaluation  
+### 🌐 [Drupal-RekeningTool](https://github.com/Yussri-dev/Drupal-RekeningTool) — ILVO  
+A professional tool for agriculture & livestock research.  
+It combines **WUR VWP data** + **CVB Veevoedertabel** to calculate:  
+✔ VWP Melk & VWP Vlees  
+✔ Feed value vs price comparisons  
+✔ Nutrient-based evaluation for cattle rations  
 
-Used for accurate feed optimization in dairy & meat cattle sectors.
-
----
-
-### 💸 [bilancia](https://github.com/Yussri-dev/bilancia)  
-Finance & Budgeting App (React Native)**  
-Tracks income and expenses with dynamic charts and insights.
+Used internally at ILVO for feed optimization.
 
 ---
 
-### 📦 [InventoryTrackApi](https://github.com/Yussri-dev/InventoryTrackApi)
-.NET Core API for Inventory & Sales Tracking**  
-Manages products, suppliers, purchases, returns, and invoicing  
-🧰 *Tech:* ASP.NET Core, EF Core, PostgreSQL, JWT, Swagger.
+### 💸 [bilancia](https://github.com/Yussri-dev/bilancia) — React Native  
+A clean finance & budgeting mobile app featuring:  
+✔ Expense tracking  
+✔ Category insights  
+✔ Dynamic charts & filtering  
+
+---
+
+### 📦 [InventoryTrackApi](https://github.com/Yussri-dev/InventoryTrackApi) — .NET Core  
+A production-ready backend system for inventory & POS operations.  
+✔ Product & supplier management  
+✔ Purchases, returns, damaged goods  
+✔ JWT auth + multi-layer architecture  
 
 ---
 
 ## 🧩 Interests
 
-- Clean Architecture & software craftsmanship  
-- AI-powered apps & predictive analytics  
-- Cross-platform development (MAUI, React Native)  
-- Developer tooling, SDKs, and automation  
-- Building SaaS products from scratch  
-- Continuous learning & experimentation  
+- Software architecture & clean code  
+- AI-powered tools & predictive analytics  
+- MAUI / cross-platform mobile  
+- Dev tooling, SDKs, and automation  
+- Building complete SaaS solutions  
+- Continuous improvement & system design  
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yussri-dev&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yussri-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yussri-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yussri-dev/Yussri-dev/output/github-contribution-grid-snake-dark.svg" />
+</p>

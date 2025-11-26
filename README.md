@@ -10,59 +10,20 @@
 
 ---
 
-### 📬 Contact
-📧 **Email:** [ghanmi.youssri.dev@gmail.com](mailto:ghanmi.youssri.dev@gmail.com)  
-🌍 **Location:** Ghent Metropolitan Area, Flanders, Belgium  
-💼 **Open to Work:** Software Engineer · .NET Developer  
-🏢 **Location Types:** On-site · Hybrid · Remote  
-📆 **Start Date:** Immediately — actively applying  
-📄 **Employment Types:** Full-time · Part-time · Contract · Internship  
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gh-youssri">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ghanmi.youssri.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Yussri-dev&style=flat-square&color=blue" alt="Profile views" />
-</p>
+I’m **Youssri**, a passionate **.NET Developer** focused on building scalable, clean, and modern applications.  
+I love designing **REST APIs**, implementing secure **Identity + JWT authentication**, and building cross-platform apps with **Blazor Hybrid** and **.NET MAUI**.
 
----
+I continuously learn, build, and improve — transforming complex ideas into elegant and maintainable software.
 
-## 💡 About Me
-
-I’m a **dynamic software developer** with practical experience in **.NET technologies** and a passion for building efficient and maintainable applications.  
-I specialize in **migrating legacy systems to modern .NET Core MVC architectures**, developing powerful **RESTful APIs**, and optimizing **system performance** to enhance user experience.
-
-### 🧠 Skills Overview
-- **Languages:** C#, JavaScript, SQL, Python  
-- **Frameworks:** .NET Core, ASP.NET Core MVC  
-- **Technologies:** RESTful APIs, Entity Framework, LINQ  
-- **Tools & Environments:** Visual Studio, VS Code, Postman, Git  
-- **Reporting Tools:** FastReport, CrystalReport  
-
----
-
-### 🏆 Key Achievements
-- Successfully migrated critical legacy systems to **.NET Core MVC**, resulting in improved scalability and performance.  
-- Increased **code maintainability by 35%** through centralized business logic.  
-- Consistently delivered **high-quality software solutions** within deadlines.  
-- Enhanced **system performance and UX** through effective optimization strategies.
-
----
-
-### 💪 Passion & Expertise
-Driven by **continuous learning and innovation**, I thrive in collaborative environments where technology is used to solve real-world challenges.  
-I’m passionate about creating **scalable, high-quality applications** and continuously exploring **new frameworks and tools** to stay ahead in the software industry.
-
----
-
-### 🤝 Let’s Connect
-I’m **open to new challenges** in software engineering — whether it’s building enterprise systems, scaling APIs, or crafting modern .NET applications.  
-Let’s connect and explore how I can contribute to your team or project.
-
-#SoftwareDevelopment #DotnetCore #RESTAPI #CleanArchitecture #OpenToWork
+### 🔍 What I specialize in
+- Clean Architecture, DTOs, Services, Repositories, Installers  
+- ASP.NET Core APIs & EF Core  
+- WPF (MVVM), .NET MAUI, Blazor Hybrid  
+- JWT Auth, Identity, multi-tenant systems  
+- Mobile development with React Native (Expo)  
+- AI-powered SaaS features & analytics  
 
 ---
 
@@ -73,51 +34,77 @@ Let’s connect and explore how I can contribute to your team or project.
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/WPF-68217A?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-6DB33F?logo=efcore&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-6DB33F" />
+  <img src="https://img.shields.io/badge/REST%20APIs-00897B?logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastReport-FFB400?logo=report&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastReport-FFB400" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 🏅 Certifications & Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Office%20Specialist-Expert%20(Word%2FExcel%2FPowerPoint)-2F80ED?logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python%20Training-Udemy-8A2BE2?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENIC--NARIC%20Vlaanderen-EQF%20Level%205-1E90FF" />
+  <img src="https://img.shields.io/badge/German%20Certification-B1%20%C3%96SD-4CAF50" />
+  <img src="https://img.shields.io/badge/Dutch%20Certification-B1%20UCT%20Ghent-F39C12" />
 </p>
 
 ---
 
 ## 🚀 Highlighted Projects
 
-### 🏪 [VoorraadbeheerSysteemProject](#)
-> **WPF Inventory Management System**  
-> Desktop system for managing stock, suppliers, and purchases with barcode scanning and async API integration.  
-> 🧰 *Tech:* WPF (MVVM), C#, API Calls, Validation, DTOs, Pagination.
+### 💰 [SaasFinanceApp](#) — API & MAUI  
+A complete financial SaaS system with:  
+- Income & expense tracking  
+- AI-powered insights  
+- Monthly analytics with charts  
+- .NET MAUI Blazor Hybrid mobile app  
+- Modular API with DTOs, services, installers  
 
 ---
 
-### 📦 [InventoryTrackApi](#)
+### 🌐 [Drupal-RekeningTool](#) — ILVO  
+A professional **voederwaardeprijs rekentool** built for agriculture & livestock research.  
+Combines **WUR VWP** + **CVB Veevoedertabel** to calculate:  
+- VWP Melk & VWP Vlees  
+- Percentual comparisons vs real prices  
+- Nutrient-based feed value evaluation  
+
+Used for accurate feed optimization in dairy & meat cattle sectors.
+
+---
+
+### 💸 [bilancia](#)  
+> **Finance & Budgeting App (React Native)**  
+Tracks income and expenses with dynamic charts and insights.
+
+---
+
+### 📦 [InventoryTrackApi](#)  
 > **.NET Core API for Inventory & Sales Tracking**  
-> REST API managing products, suppliers, purchases, and returns with a clean architecture approach.  
-> 🧰 *Tech:* ASP.NET Core, EF Core, PostgreSQL, JWT, Swagger.
+Manages products, suppliers, purchases, returns, and invoicing  
+🧰 *Tech:* ASP.NET Core, EF Core, PostgreSQL, JWT, Swagger.
 
 ---
 
-### 💸 [bilancia](#)
-> **Finance & Budget Web App**  
-> Tracks income and expenses with dynamic charts and insights.  
-> 🧰 *Tech:* JavaScript, HTML5, CSS3, Chart.js.
+## 🏆 GitHub Trophies
 
----
-
-### 💰 [SaasFinanceApp](#)
-> **AI-Powered Personal Finance SaaS**  
-> .NET + MAUI + Blazor hybrid app for managing finances, forecasting, and generating AI-driven insights.  
-> 🧰 *Tech:* ASP.NET Core 9, MAUI Blazor, EF Core, PostgreSQL, JWT, LiveCharts2.
-
----
-
-### 🌐 [Drupal-RekeningTool](#)
-> **Drupal-based Accounting Tool**  
-> Automates billing and calculations for small businesses.  
-> 🧰 *Tech:* PHP (Drupal), HTML, CSS, JavaScript.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yussri-dev&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
@@ -130,16 +117,41 @@ Let’s connect and explore how I can contribute to your team or project.
 
 ---
 
-## 🧩 Interests
-💼 Scalable financial & inventory systems  
-🤖 AI and automation in business software  
-🧱 Clean architecture & .NET design patterns  
-📱 Cross-platform apps with Blazor & MAUI  
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yussri-dev/Yussri-dev/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
+## 🧩 Interests
+
+- Clean Architecture & software craftsmanship  
+- AI-powered apps & predictive analytics  
+- Cross-platform development (MAUI, React Native)  
+- Developer tooling, SDKs, and automation  
+- Building SaaS products from scratch  
+- Continuous learning & experimentation  
+
+---
+
+## 📬 Contact
+
+📧 **Email:** [ghanmi.youssri.dev@gmail.com](mailto:ghanmi.youssri.dev@gmail.com)  
+🌍 **Location:** Ghent Metropolitan Area, Flanders, Belgium  
+💼 **Open to Work:** Software Engineer · .NET Developer  
+🏢 **Location Types:** On-site · Hybrid · Remote  
+📆 **Start Date:** Immediate  
+📄 **Types:** Full-time · Contract · Internship  
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F24,100:1E90FF&height=120&section=footer" />
+  <a href="https://www.linkedin.com/in/gh-youssri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ghanmi.youssri.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Yussri-dev&style=flat-square&color=blue" />
 </p>
 
-⭐ *“Great software is not just written — it’s designed, tested, and continuously improved.”*

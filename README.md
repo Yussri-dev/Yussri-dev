@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack .NET Developer • API Engineer • Mobile Developer</b><br>
-  🚀 Clean Architecture • Modern .NET • Scalable Systems
+  <b>Senior Full-Stack .NET Developer • API Architect • Cross-Platform Engineer</b><br>
+  🚀 Clean Architecture • Enterprise APIs • Scalable Systems
 </p>
 
 ---
@@ -33,17 +33,17 @@
 
 ## 👨‍💻 About Me  
 
-I’m **Youssri**, a .NET developer with a strong focus on **API engineering**, **clean architecture**, and building **scalable, maintainable software**.  
+I'm **Youssri**, a .NET developer specializing in **API engineering**, **clean architecture**, and building **production-grade, maintainable software**.  
 
-I enjoy turning complex requirements into robust solutions—whether it’s a cleanly architected backend, a MAUI mobile app, or a complete SaaS ecosystem.
+I excel at transforming complex business requirements into robust, scalable solutions—from cleanly architected RESTful backends and cross-platform MAUI mobile applications to complete SaaS ecosystems with AI-powered features.
 
-### 💡 I work best with:
-- Domain-driven, layered architectures  
-- Clean controllers + services + repositories + DTO separation  
-- Secure authentication (Identity, JWT, multi-tenant flows)  
-- Modern UI: WPF MVVM, Blazor Hybrid, .NET MAUI  
-- Mobile dev with React Native (Expo)  
-- Data-rich, AI-powered SaaS dashboards  
+### 💡 Technical Approach:
+- **Architecture**: Domain-driven design with layered separation (Controllers → Services → Repositories → Domain)  
+- **API Development**: RESTful design principles, proper HTTP semantics, comprehensive documentation  
+- **Security**: ASP.NET Identity integration, JWT authentication, role-based authorization, multi-tenant architectures  
+- **Modern UI**: WPF with MVVM pattern, Blazor Hybrid applications, .NET MAUI cross-platform mobile  
+- **Mobile**: React Native (Expo) with TypeScript for native performance  
+- **Data Engineering**: AI-powered analytics, reporting systems, real-time dashboards  
 
 ---
 
@@ -52,27 +52,152 @@ I enjoy turning complex requirements into robust solutions—whether it’s a cl
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/WPF-68217A?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework-6DB33F" />
-  <img src="https://img.shields.io/badge/REST%20APIs-00897B?logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT%20Auth-000000?logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-68217A?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-00897B?logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/FastReport-FFB400" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🚀 Featured Projects
+
+### 💰 [SaasFinanceApp](https://github.com/Yussri-dev/SaasFinanceApp)
+**Enterprise Finance Management Platform** — API & MAUI
+
+A production-ready SaaS ecosystem demonstrating modern .NET architecture and cross-platform development:
+
+**Backend Architecture:**
+- Multi-layered API with clean separation of concerns
+- Repository pattern with Entity Framework Core
+- DTO mapping for API contracts
+- Dependency injection throughout
+
+**Core Features:**
+- Income & expense tracking with categorization
+- AI-powered budgeting recommendations and financial insights
+- Real-time analytics dashboard with interactive charts
+- Comprehensive reporting system
+
+**Mobile Application:**
+- .NET MAUI with Blazor Hybrid for native performance
+- Cross-platform (iOS, Android, Windows)
+- Offline-first architecture with sync capabilities
+
+**Security & Auth:**
+- JWT-based authentication
+- Role-based authorization
+- Secure data handling and validation
+
+**Tech Stack:** `.NET 8` • `ASP.NET Core Web API` • `Entity Framework Core` • `PostgreSQL` • `.NET MAUI` • `Blazor` • `Swagger/OpenAPI`
+
+---
+
+### 📦 [InventoryTrackApi](https://github.com/Yussri-dev/InventoryTrackApi)
+**Enterprise Inventory & POS System** — .NET Core
+
+A robust backend system for comprehensive inventory management and point-of-sale operations:
+
+**Domain Model:**
+- Product catalog with detailed specifications
+- Supplier relationship management
+- Purchase order processing
+- Returns and damaged goods tracking
+- Stock level monitoring and alerts
+
+**Architecture:**
+- Clean multi-layer architecture
+- Service layer for business logic isolation
+- Repository pattern for data access
+- DTOs for API contract stability
+
+**Security:**
+- JWT token-based authentication
+- Role-based access control (RBAC)
+- Secure password handling with ASP.NET Identity
+- Input validation and sanitization
+
+**API Design:**
+- RESTful endpoint design
+- Proper HTTP status codes and error handling
+- Full Swagger/OpenAPI documentation
+- Versioning strategy for API evolution
+
+**Tech Stack:** `.NET Core` • `Entity Framework` • `SQL Server` • `JWT Auth` • `AutoMapper` • `Swagger`
+
+---
+
+### 🌐 [Drupal-RekeningTool](https://github.com/Yussri-dev/Drupal-RekeningTool)
+**Agricultural Feed Calculation Engine** — Node.js
+
+A specialized calculation tool for livestock nutrition research and feed optimization:
+
+**Purpose:**
+Professional tool used internally at **ILVO** (Flanders Research Institute for Agriculture, Fisheries and Food) for scientific feed analysis and optimization.
+
+**Integration:**
+- **WUR VWP Dataset**: Integration with Wageningen University Research nutritional data
+- **CVB Veevoedertabel**: API consumption for comprehensive feed composition tables
+
+**Calculations:**
+- VWP Melk (Dairy cattle feed value)
+- VWP Vlees (Beef cattle feed value)
+- Feed value vs price comparison analysis
+- Nutrient-based evaluation for optimal cattle rations
+- Cost-effectiveness calculations
+
+**Impact:**
+Enables researchers to make data-driven decisions for livestock nutrition, optimizing feed efficiency and cost management in agricultural operations.
+
+**Tech Stack:** `Node.js` • `Express` • `REST APIs` • `Data Integration` • `Scientific Computing`
+
+---
+
+### 💸 [bilancia](https://github.com/Yussri-dev/bilancia)
+**Personal Finance & Budgeting Mobile App** — React Native
+
+A clean, intuitive mobile application for personal finance management:
+
+**Features:**
+- Expense and income tracking
+- Category-based organization and insights
+- Dynamic charts and data visualization
+- Filtering and search capabilities
+- Budget goals and progress monitoring
+
+**Technical Implementation:**
+- React Native with Expo for cross-platform deployment
+- TypeScript for type safety
+- Local data persistence
+- Smooth animations and native UI patterns
+- Context API for state management
+
+**UX Focus:**
+Emphasis on simplicity and ease of use, making financial tracking accessible for daily use without overwhelming the user.
+
+**Tech Stack:** `React Native` • `Expo` • `TypeScript` • `React Navigation` • `AsyncStorage`
+
+---
+
+## 🏅 Certifications & Professional Development
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Office%20Specialist-Expert%20(Word%2FExcel%2FPowerPoint)-2F80ED?logo=microsoftoffice&logoColor=white" />
@@ -84,75 +209,33 @@ I enjoy turning complex requirements into robust solutions—whether it’s a cl
 
 ---
 
-## 🚀 Highlighted Projects
+## 🧩 Professional Interests
 
-### 💰 [SaasFinanceApp](https://github.com/Yussri-dev/SaasFinanceApp) — API & MAUI  
-A modern finance SaaS ecosystem featuring:  
-✔ Income & expense tracking  
-✔ AI-powered budgeting & insights  
-✔ Analytics dashboard with charts  
-✔ MAUI mobile app (Blazor Hybrid)  
-✔ Cleanly architected multi-layer API  
-
----
-
-### 🌐 [Drupal-RekeningTool](https://github.com/Yussri-dev/Drupal-RekeningTool) — ILVO  
-A professional tool for agriculture & livestock research.  
-It combines **WUR VWP data** + **CVB Veevoedertabel** to calculate:  
-✔ VWP Melk & VWP Vlees  
-✔ Feed value vs price comparisons  
-✔ Nutrient-based evaluation for cattle rations  
-
-Used internally at ILVO for feed optimization.
+- **Software Architecture**: Clean code principles, SOLID design patterns, architectural decision-making
+- **AI Integration**: Predictive analytics, intelligent automation, machine learning in production systems
+- **Cross-Platform Development**: .NET MAUI, Blazor Hybrid, universal application design
+- **Developer Experience**: Building SDKs, automation tools, and developer-friendly APIs
+- **Complete Solutions**: End-to-end SaaS product development from architecture to deployment
+- **Continuous Improvement**: System optimization, refactoring legacy code, performance tuning
 
 ---
 
-### 💸 [bilancia](https://github.com/Yussri-dev/bilancia) — React Native  
-A clean finance & budgeting mobile app featuring:  
-✔ Expense tracking  
-✔ Category insights  
-✔ Dynamic charts & filtering  
-
----
-
-### 📦 [InventoryTrackApi](https://github.com/Yussri-dev/InventoryTrackApi) — .NET Core  
-A production-ready backend system for inventory & POS operations.  
-✔ Product & supplier management  
-✔ Purchases, returns, damaged goods  
-✔ JWT auth + multi-layer architecture  
-
----
-
-## 🧩 Interests
-
-- Software architecture & clean code  
-- AI-powered tools & predictive analytics  
-- MAUI / cross-platform mobile  
-- Dev tooling, SDKs, and automation  
-- Building complete SaaS solutions  
-- Continuous improvement & system design  
-
----
-
-## 🏆 GitHub Trophies
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yussri-dev&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yussri-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0A0F24&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yussri-dev&theme=dark&hide_border=true&background=0A0F24&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yussri-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yussri-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <i>Let's build something exceptional together.</i>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yussri-dev/Yussri-dev/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F24,100:1E90FF&height=120&section=footer" />
 </p>

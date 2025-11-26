@@ -10,6 +10,27 @@
 
 ---
 
+## 📬 Contact
+
+📧 **Email:** [ghanmi.youssri.dev@gmail.com](mailto:ghanmi.youssri.dev@gmail.com)  
+🌍 **Location:** Ghent Metropolitan Area, Flanders, Belgium  
+💼 **Open to Work:** Software Engineer · .NET Developer  
+🏢 **Location Types:** On-site · Hybrid · Remote  
+📆 **Start Date:** Immediate  
+📄 **Types:** Full-time · Contract · Internship  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gh-youssri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ghanmi.youssri.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Yussri-dev&style=flat-square&color=blue" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 I’m **Youssri**, a passionate **.NET Developer** focused on building scalable, clean, and modern applications.  
@@ -100,6 +121,31 @@ Manages products, suppliers, purchases, returns, and invoicing
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yussri-dev&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yussri-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yussri-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yussri-dev/Yussri-dev/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🧩 Interests
 
 - Clean Architecture & software craftsmanship  
@@ -108,25 +154,4 @@ Manages products, suppliers, purchases, returns, and invoicing
 - Developer tooling, SDKs, and automation  
 - Building SaaS products from scratch  
 - Continuous learning & experimentation  
-
----
-
-## 📬 Contact
-
-📧 **Email:** [ghanmi.youssri.dev@gmail.com](mailto:ghanmi.youssri.dev@gmail.com)  
-🌍 **Location:** Ghent Metropolitan Area, Flanders, Belgium  
-💼 **Open to Work:** Software Engineer · .NET Developer  
-🏢 **Location Types:** On-site · Hybrid · Remote  
-📆 **Start Date:** Immediate  
-📄 **Types:** Full-time · Contract · Internship  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gh-youssri">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ghanmi.youssri.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Yussri-dev&style=flat-square&color=blue" />
-</p>
 

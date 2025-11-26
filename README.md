@@ -87,7 +87,7 @@ I continuously learn, build, and improve — transforming complex ideas into ele
 
 ## 🚀 Highlighted Projects
 
-### 💰 [SaasFinanceApp](#) — API & MAUI  
+### 💰 [SaasFinanceApp](https://github.com/Yussri-dev/SaasFinanceApp) — API & MAUI
 A complete financial SaaS system with:  
 - Income & expense tracking  
 - AI-powered insights  
@@ -97,7 +97,7 @@ A complete financial SaaS system with:
 
 ---
 
-### 🌐 [Drupal-RekeningTool](#) — ILVO  
+### 🌐 [Drupal-RekeningTool](https://github.com/Yussri-dev/Drupal-RekeningTool) — ILVO
 A professional **voederwaardeprijs rekentool** built for agriculture & livestock research.  
 Combines **WUR VWP** + **CVB Veevoedertabel** to calculate:  
 - VWP Melk & VWP Vlees  
@@ -108,14 +108,14 @@ Used for accurate feed optimization in dairy & meat cattle sectors.
 
 ---
 
-### 💸 [bilancia](#)  
-> **Finance & Budgeting App (React Native)**  
+### 💸 [bilancia]([#](https://github.com/Yussri-dev/bilancia)  
+Finance & Budgeting App (React Native)**  
 Tracks income and expenses with dynamic charts and insights.
 
 ---
 
-### 📦 [InventoryTrackApi](#)  
-> **.NET Core API for Inventory & Sales Tracking**  
+### 📦 [InventoryTrackApi]([#](https://github.com/Yussri-dev/InventoryTrackApi))  
+.NET Core API for Inventory & Sales Tracking**  
 Manages products, suppliers, purchases, returns, and invoicing  
 🧰 *Tech:* ASP.NET Core, EF Core, PostgreSQL, JWT, Swagger.
 

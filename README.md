@@ -220,18 +220,6 @@ Emphasis on simplicity and ease of use, making financial tracking accessible for
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yussri-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0A0F24&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yussri-dev&theme=dark&hide_border=true&background=0A0F24&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center">
   <i>Let's build something exceptional together.</i>
 </p>

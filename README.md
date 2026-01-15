@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Senior Full-Stack .NET Developer • API Architect • Cross-Platform Engineer</b><br>
+  <b>Medior Full-Stack .NET Developer • API Architect • Cross-Platform Engineer</b><br>
   🚀 Clean Architecture • Enterprise APIs • Scalable Systems
 </p>
 
